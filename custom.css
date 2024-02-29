@@ -1,0 +1,146 @@
+/* Start Custom Fonts CSS */
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Light.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-LightItalic.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Regular.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Italic.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Bold.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-BoldItalic.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Regular.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: italic;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Italic.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Medium.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-MediumItalic.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Bold.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: italic;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-BoldItalic.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-SemiBold.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: italic;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-SemiBoldItalic.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-ExtraBold.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: italic;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-ExtraBoldItalic.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Black.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'HeliosHumanist';
+	font-style: italic;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-BlackItalic.woff2') format('woff2'),
+		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-BlackItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
