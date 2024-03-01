@@ -144,3 +144,7 @@
 		url('https://heliosgroup.kinsta.cloud/wp-content/uploads/2023/12/HeliosHumanist-BlackItalic.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
+
+h2 {
+	font-family: 'HeliosHumanist';
+}
